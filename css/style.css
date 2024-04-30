@@ -3,8 +3,6 @@
 --secondary-font-family:"Poppins", sans-serif;
 }
 
-
-
 h1 {
     font-family: var(--primary-font-family);
   font-optical-sizing: auto;
